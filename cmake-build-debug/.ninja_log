@@ -1,0 +1,23 @@
+# ninja log v5
+1	499	6936560918110831	CMakeFiles/cpp_tmp.dir/main.cpp.obj	e7acbb83f47589ba
+3	552	6937297627624279	CMakeFiles/cpp_tmp.dir/main_file_c.cpp.obj	ddf74b8aeb4ba64a
+3	381	6936570442066222	CMakeFiles/cpp_tmp.dir/main_cstdlib.cpp.obj	8c11911e8ffaeb67
+829	1202	6937432791562997	cpp_tmp.exe	5f8c4b42921b4032
+3	407	6937276795865692	CMakeFiles/cpp_tmp.dir/main_file.cpp.obj	3dead51dc9671438
+6	828	6937432788018242	CMakeFiles/cpp_tmp.dir/main_file_cpp.cpp.obj	3febaeb9842cf972
+1	538	6937499328460275	CMakeFiles/cpp_tmp.dir/main.cpp.obj	e7acbb83f47589ba
+540	716	6937499330205254	cpp_tmp.exe	5e62a6dbab947fd1
+11	619	6937518155245892	CMakeFiles/cpp_tmp.dir/main.cpp.obj	e7acbb83f47589ba
+619	770	6937518156701426	cpp_tmp.exe	5e62a6dbab947fd1
+3	414	6937518282773342	CMakeFiles/cpp_tmp.dir/main.cpp.obj	e7acbb83f47589ba
+415	527	6937518283868767	cpp_tmp.exe	5e62a6dbab947fd1
+3	467	6937518348746005	CMakeFiles/cpp_tmp.dir/main.cpp.obj	e7acbb83f47589ba
+468	583	6937518349876193	cpp_tmp.exe	5e62a6dbab947fd1
+16	773	6937707831201918	CMakeFiles/cpp_tmp.dir/main.cpp.obj	e7acbb83f47589ba
+774	979	6937707833176911	cpp_tmp.exe	5e62a6dbab947fd1
+3	464	6937708179488226	CMakeFiles/cpp_tmp.dir/main.cpp.obj	e7acbb83f47589ba
+464	606	6937708180858316	cpp_tmp.exe	5e62a6dbab947fd1
+2	568	6937722535713070	CMakeFiles/cpp_tmp.dir/main.cpp.obj	e7acbb83f47589ba
+569	711	6937722537121477	cpp_tmp.exe	5e62a6dbab947fd1
+3	418	6937722928102070	CMakeFiles/cpp_tmp.dir/main.cpp.obj	e7acbb83f47589ba
+418	532	6937722929212176	cpp_tmp.exe	5e62a6dbab947fd1
